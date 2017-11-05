@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.volodin.simpleform" >
 
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="25" />
     <supports-screens android:largeScreens="true"
         android:normalScreens="true"
         android:smallScreens="false"/>
